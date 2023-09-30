@@ -1,0 +1,4 @@
+bs4                             ==0.0.1
+ebooklib                        ==0.18
+rich                            ==13.3.2
+opencc-python-reimplemented     ==0.1.7
